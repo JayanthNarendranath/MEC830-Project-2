@@ -1,4 +1,4 @@
-This is a fourth year Mechatronics Systems Design Engineering Project. This project involvs the following tasks:
+This is a fourth year Mechatronics Systems Design Engineering Project. This project involves the following tasks:
 1) To manually move a robotic car using a remote.
 2) To make the robotic car move along a desired path.
 3) To make the robotic car avoid colliding with obstacles.
